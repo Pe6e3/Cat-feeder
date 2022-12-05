@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cat feeder", "Cat feeder\Cat feeder.csproj", "{1A63820D-2C99-474F-A3B1-55D647DF6937}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2A32D0DB-5972-4837-AE56-9117C16BAB1F}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A63820D-2C99-474F-A3B1-55D647DF6937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A63820D-2C99-474F-A3B1-55D647DF6937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A63820D-2C99-474F-A3B1-55D647DF6937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A63820D-2C99-474F-A3B1-55D647DF6937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {020919FC-E614-47E4-AC8C-290D004CCE30}
+	EndGlobalSection
+EndGlobal
